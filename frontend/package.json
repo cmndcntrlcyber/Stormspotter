@@ -28,7 +28,7 @@
     "bl": "^4.0.3"
   },
   "devDependencies": {
-    "@quasar/app": "^2.0.9",
+    "@quasar/app": "^2.4.3",
     "babel-eslint": "^10.0.1",
     "devtron": "^1.4.0",
     "electron": "^9.3.1",
